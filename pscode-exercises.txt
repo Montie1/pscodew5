@@ -1,0 +1,59 @@
+pscode-exercises
+
+// Exercise 1: Calculate the Sum of Two Numbers
+
+BEGIN
+INPUT the first number num1
+INPUT the second number num2
+Add num1 and num2 together and called sum
+Output the "sum"
+END
+
+// Exercise 2: Check if a Number is Even or Odd
+
+BEGIN
+INPUT a value and variable
+If num1 mod 2 equals 0:
+    OUTPUT "Even"
+Else:
+    OUTPUT "Odd"
+END
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.
+Begin
+INPUT "num1"
+INPUT "num2"
+INPUT "num3" 
+INPUT "num4"
+INPUT "num5"
+OUTPUT "num1", "num2", "num3", "num4", and "num5"
+END   
+
+b) Calculate the average of the five numbers.
+BEGIN
+INPUT five variables num1, num2, num3, num4, and num5 and give values 
+ADD the values of num1, num2, num3, num4, and num5 together and sum
+Divide % the sum by 5 
+OUTPUT "average"
+End
+
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+BEGIN
+FOR "num1", "num2", "num3", "num4", and "num5"
+ENTER "num1"
+ENTER "num2"
+ENTER "num3"
+ENTER "num4"
+ENTER "num5"
+NEXT find the values of "num1", "num2", "num3", "num4", and "num5" for the smallest and largest numbers
+PRINT the "smallest and largest of the numbers"
+END
+
+d) Write out the results found from steps b and c with a message describing what they are
+
+(Your pseudocode here)
+
+-- END --
